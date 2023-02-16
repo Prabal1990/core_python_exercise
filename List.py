@@ -81,3 +81,17 @@ for i in cars:
         print("BMW")
     else:
         print(i.title())
+
+banned_users = ['andrew', 'carolina', 'david']
+user = 'marie'
+# output- "Marie, you can post a response if you wish"
+if user not in banned_users:
+    print(f"{user.title()}, you can post a response if you wish")
+
+# Example
+age = int(input("Enter your age: "))
+if age >= 18:
+    print("You are eligible for club")
+else:
+    print("Not eligible")
+
