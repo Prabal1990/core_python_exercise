@@ -4,3 +4,4 @@ Staging area- git add .
 (To see the changes- git status)
 Put local repo commit- git commit –m “Initially commit”
 Push in remote: git push –u origin master
+git log - to see the commits history
