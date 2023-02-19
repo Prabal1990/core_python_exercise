@@ -74,6 +74,6 @@ def person( names, classs, *info):
 #   info["name 2st"] = last_name
     names
 
-  print(info)
+# print(info)
 
 person('Naveen', 'Singh', 'TCS', 'Bangalore')
