@@ -38,7 +38,7 @@ print(num)
 #printing even number
 even_num = list(range(2,11,2))
 print(even_num)
-
+# output: [2, 4, 6, 8, 10]
 # |||||| Print Squares of even numbers ||||||||||||
 # print this- list1 = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
 # []
