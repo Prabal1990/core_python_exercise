@@ -1,0 +1,6 @@
+#printing increasing triangle pattern
+# * 
+# * * 
+# * * * 
+# * * * *
+
